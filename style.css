@@ -1,0 +1,13 @@
+body {
+	margin:100px
+}
+.progressbar {
+	width:500px;
+	height:5px;
+	background-color:#ddd;
+}
+.progress-fill {
+	width:70%;
+	height:100%;
+	background:red;
+}
